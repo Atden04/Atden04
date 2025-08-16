@@ -1,6 +1,6 @@
 Welcome to my GitHub Page
 =========================
-Please See my [GitHub Pages](https://alexanderdenton.dev) site for a public portfolio.
+Please see my [GitHub Pages](https://alexanderdenton.dev) site for a public portfolio.
 
 <!---
 Atden04/Atden04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
