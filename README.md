@@ -25,6 +25,7 @@ The following list is for my personal use and some repositories listed below wil
 * [Enrichment Project](https://github.com/Atden04/Enrichment-Project)
 * University Assignments
   * Third Year Modules
+    * [CO3404 Lab Work](https://github.com/Atden04/CO3404-Lab-Work) 
   * Second Year Modules
     * [CO2301 Assignment 1](https://github.com/Atden04/CO2301_Assignment_1)
     * [CO2301 Assignment 2](https://github.com/Atden04/CO2301_Assignment_2)
