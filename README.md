@@ -40,10 +40,15 @@ University Assignments
 * Third Year Modules
   * **Distributed Systems:**
     * [CO3404 Lab Work](https://github.com/alexanderdenton/CO3404-Lab-Work)
+    * [CO3404 Assignment 1](https://github.com/alexanderdenton/CO3404-Assignment-1)
+  * **Advanced Software Modelling:**
+    * [CO3408 Assignment 1](https://github.com/alexanderdenton/CO3408-Assignment-1)
   * **Artificial Intelligence:**
     * [CO3519 Assignment 1](https://github.com/alexanderdenton/CO3519-Assignment-1)
+    * [CO3519 Assignment 2](https://github.com/alexanderdenton/CO3519-Assignment-2)
   * **Data Science:**
     * [CO3722 Assignment 1](https://github.com/alexanderdenton/CO3722-Assignment-1)
+    * [CO3722 Assignment 2](https://github.com/alexanderdenton/CO3722-Assignment-2)
 * Second Year Modules
   * **Games Development:**
     * [CO2301 Assignment 1](https://github.com/alexanderdenton/CO2301_Assignment_1)
