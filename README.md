@@ -32,7 +32,7 @@ Work Experience
 
 Diploma:
 * [Diploma Knowledge Questions](https://github.com/alexanderdenton/Diploma-KQs)
-[Enrichment Project](https://github.com/alexanderdenton/Enrichment-Project)
+* [Enrichment Project](https://github.com/alexanderdenton/Enrichment-Project)
 
 ---
 
